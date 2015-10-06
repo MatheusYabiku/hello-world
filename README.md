@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-This is finished
+==============
+Hello, this is going to be my first commit! :D
